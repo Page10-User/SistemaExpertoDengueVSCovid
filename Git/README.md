@@ -1,8 +1,8 @@
-# Sistema Experto: COVID vs Dengue 🦠
+# Sistema Experto: COVID vs Dengue 
 
 Sistema de diagnóstico médico probabilístico capaz de distinguir entre COVID-19 y Dengue basándose en los síntomas del paciente.
 
-## 📋 Descripción
+##  Descripción
 
 Este proyecto implementa tres enfoques diferentes de clasificación probabilística para el diagnóstico diferencial entre COVID-19 y Dengue:
 
@@ -12,14 +12,14 @@ Este proyecto implementa tres enfoques diferentes de clasificación probabilíst
 | **Redes Bayesianas** | `C&O(Redes Bayesianas).py` | Modelo gráfico probabilístico con estructura causal |
 | **Random Forest** | `C&D&O(Random Forest).py` | Ensemble de árboles de decisión |
 
-## 🎯 Características
+##  Características
 
 - **18 síntomas** analizables
 - **Diagnóstico probabilístico** con porcentaje de confianza
 - **Comparador visual** para ver las diferencias entre métodos (`comparaciones.py`)
 - Interfaz interactiva/simple para probar casos
 
-## 🚀 Uso
+##  Uso
 
 ### Naive Bayes
 ```bash
@@ -43,7 +43,7 @@ python comparaciones.py
 ```
 Muestra una comparación visual de los tres métodos con casos de prueba.
 
-## 📊 Síntomas Disponibles
+##  Síntomas Disponibles
 
 **Síntomas COVID específicos:**
 - secrecion_nasal, dificultad_respiratoria, perdida_olfato, perdida_gusto, tos, dolor_garganta
@@ -54,7 +54,7 @@ Muestra una comparación visual de los tres métodos con casos de prueba.
 **Síntomas comunes (ambas enfermedades):**
 - fiebre, dolor_cabeza, dolores_musculares, dolores_articulares, fatiga, malestar_general, nauseas, vomitos, diarrea
 
-## 🧠 Comparación de Métodos
+##  Comparación de Métodos
 
 ### Naive Bayes
 - ✅ Rápido y simple
@@ -74,7 +74,7 @@ Muestra una comparación visual de los tres métodos con casos de prueba.
 - ❌ "Caja negra" (difícil de interpretar)
 - ❌ Requiere más datos
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 Git/
@@ -86,16 +86,6 @@ Git/
 └── LICENCIA                    # Licencia MIT
 ```
 
-## ⚠️ Disclaimer
-
-Este sistema es **únicamente educativo e ilustrativo**. No debe utilizarse para diagnóstico médico real. Siempre consulte a un profesional de la salud.
-
-## 📝 Licencia
-
-MIT License - Ver archivo `LICENCIA`
-
----
-
-**Autores:** [Tu nombre]
+**Autores:** [Acosta Lopez Gonzalo Nahuel & Pietro ]
 **Versión:** 1.0.0
 **Fecha:** 2026
