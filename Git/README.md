@@ -86,6 +86,6 @@ Git/
 └── LICENCIA                    # Licencia MIT
 ```
 
-**Autores:** [Acosta Lopez Gonzalo Nahuel & Pietro ]
+**Autores:** [Acosta Lopez Gonzalo Nahuel & Cesar pietro barrios calathaki]
 **Versión:** 1.0.0
 **Fecha:** 2026
